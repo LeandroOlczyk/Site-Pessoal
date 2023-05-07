@@ -1,0 +1,32 @@
+body{
+    color: azure;
+    background-color: #1C1C1C !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none !important;
+    align-items: center !important;
+    padding: 16px;
+}
+
+a{
+ color: azure !important;
+ text-decoration: none !important;    
+}
+
+img{
+    width: 160px !important;
+    border-radius: 50%;
+    border: 5px solid #4682B4 !important;
+}
+
+h1{
+    color: #4682B4;
+}
+
+.center{
+    text-align: center;
+}
